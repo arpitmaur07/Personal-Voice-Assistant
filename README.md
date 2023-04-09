@@ -11,8 +11,8 @@
 -pyttsx3 <br>
 -PyWhatKit <br>
 -requests <br>    
-<p> You can install these modules using pip by running the following command:-</p><br>
-`pip install SpeechRecognition PyAudio pyttsx3 PyWhatKit requests` <br>
+<p> You can install these modules using pip by running the following command:-</p>
+<code> pip install SpeechRecognition PyAudio pyttsx3 PyWhatKit requests </code> <br>
 <p>Once you have installed these modules, you can clone the repository and run the main.py file to start the assistant.</p>
 
 <h3 align="center">Usage 😎</h3>
